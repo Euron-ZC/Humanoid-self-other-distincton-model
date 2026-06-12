@@ -7,37 +7,6 @@ Official implementation of the paper **"Proprioceptive-Visual Correspondence Ena
     <a href="https://euron-zc.github.io/humanoid-self-model/" target="_blank"><img alt="Project page" src="https://img.shields.io/badge/Project-Page-blue" height="25" /></a>
 </p>
 
-<div align="center">
-    <br>
-    <div style="text-align: center;">
-        Yurun Chen<sup>1,2</sup> &emsp;
-        Tianyuan Gao<sup>3</sup> &emsp;
-        Yizhong Ge<sup>1</sup> &emsp;
-        Shikun Ban<sup>4</sup>
-        <br>
-        Yizhou Wang<sup>3</sup> &emsp;
-        Hongkai Xiong<sup>2,5&#9993;</sup> &emsp;
-        Wenjun Zeng<sup>1,6&#9993;</sup> &emsp;
-        Wentao Zhu<sup>1,6&#9993;</sup>
-        <br>
-        <br>
-        <p style="text-align: center; margin-bottom: 0;">
-            <sup>1</sup>Eastern Institute of Technology, Ningbo &emsp;
-            <sup>2</sup>Shanghai Jiao Tong University &emsp;
-            <sup>3</sup>Peking University
-            <br>
-            <sup>4</sup>Carnegie Mellon University &emsp;
-            <sup>5</sup>East China Normal University &emsp;
-            <sup>6</sup>Ningbo Institute of Digital Twin
-        </p>
-        <p style="text-align: center; margin-bottom: 0;">
-            &#9993; Corresponding authors
-        </p>
-    </div>
-</div>
-
-<hr>
-
 ## Overview
 
 Distinguishing self from others is a prerequisite for embodied intelligence. Before a humanoid robot can imitate, coordinate, or avoid nearby bodies, it must answer a basic question: **Which body is mine?**
@@ -64,14 +33,11 @@ The pipeline has two stages:
 If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{chen2026proprioceptivevisualcorrespondenceenablesselfother,
-      title={Proprioceptive-visual correspondence enables self-other distinction in humanoid robots}, 
-      author={Yurun Chen and Tianyuan Gao and Yizhong Ge and Shikun Ban and Yizhou Wang and Hongkai Xiong and Wenjun Zeng and Wentao Zhu},
-      year={2026},
-      eprint={2606.13222},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2606.13222}, 
+@article{chen2026proprioceptive,
+  title={{Proprioceptive-visual correspondence enables self-other distinction in humanoid robots}},
+  author={Chen, Yurun and Gao, Tianyuan and Ge, Yizhong and Ban, Shikun and Wang, Yizhou and Xiong, Hongkai and Zeng, Wenjun and Zhu, Wentao},
+  journal={arXiv preprint arXiv:2606.13222},
+  year={2026}
 }
 ```
 
